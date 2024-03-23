@@ -2,8 +2,6 @@ Ivan Popov
 
 18 years old, student
 
-Developer
-
-I am currently working on several pet projects. 
+I am currently working on several pet projects and learning golang
 
 You can see them below.
