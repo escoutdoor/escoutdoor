@@ -1,6 +1,6 @@
 Ivan Popov
 
-18 years old, student
+19 years old, student
 
 I am currently learning golang and working on several pet projects.
 
