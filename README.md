@@ -1,7 +1,8 @@
 Ivan Popov
 
-19 years old, student
+19 years old, student.
 
-I am currently learning golang and working on several pet projects.
+I'm kind of interested in learning new things.
+Recently, i decided to start learning golang and now I'm working on several pet projects.
 
-You can see them below.
+Btw, you can see some of them in my profile.
