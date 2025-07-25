@@ -9,7 +9,7 @@
         <li><strong>Backend:</strong> Golang, REST APIs, gRPC</li>
         <li><strong>Databases:</strong> PostgreSQL, SQL, Redis</li>
         <li><strong>DevOps & Infrastructure:</strong> Docker, Docker-Compose, Git, Kafka</li>
-        <li><strong>Monitoring:</strong> Grafana, OpenTelemetry, Prometheus</li>
+        <li><strong>Monitoring:</strong> Grafana, OpenTelemetry, Prometheus, Jaeger</li>
       </ul>
       <h2>Contact Me</h2>
       <ul>
