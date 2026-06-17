@@ -10,7 +10,7 @@
     </div>
     <div>
       <h2>Education</h2>
-      <p>🎓 <strong>Computer Science</strong> - Dnipro University of Technology (2022 - Present)</p>
+      <p>🎓 <strong>Computer Science</strong> - Dnipro University of Technology (2022 - 2026)</p>
       <h2>Certifications</h2>
     <p>☁️ <strong>AWS Certified Solutions Architect – Associate</strong> (Mar 2026) <a href="https://www.credly.com/badges/46bb9e8e-2ed1-4d45-921e-6fcd2ab7abfe/public_url" target="_blank">verify</a></p>
       <h2>Tech Stack</h2>
