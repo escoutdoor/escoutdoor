@@ -1,6 +1,6 @@
 <div>
     <h1>Ivan Popov</h1>
-    <p>I'm a backend developer who wants to build efficient, scalable systems. I'm always open to learning new technologies and taking part in interesting projects.</p>
+    <p>I am a Go backend developer with 1+ years of experience. I learn by practicing. I care about doing things right and paying attention to details. I want to be proud of what I build, so I always try my best.</p>
     <div>
       <h2>Tech Stack</h2>
       <ul>
@@ -23,8 +23,8 @@
       <p>🎓 <strong>Computer Science</strong> - Dnipro University of Technology (2022 - 2026)</p>
       <h2>Fun facts</h2>
       <ul>
-          <li>I have been swimming for 8 years btw (Candidate Master of Sports of Ukraine)</li>
-          <li>I’m a total nitpicker for detail btw</li>
+          <li>I have been swimming for 8 years, btw (CMS of Ukraine) - I guess that taught me discipline and consistency;</li>
+          <li>I'm hyper-meticulous, btw.</li>
       </ul>
       <h2>Contact Me</h2>
       <ul>
