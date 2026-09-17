@@ -23,7 +23,8 @@
       <p>🎓 <strong>Computer Science</strong> - Dnipro University of Technology (2022 - 2026)</p>
       <h2>Fun facts</h2>
       <ul>
-          <li>I have been swimming for 8 years, btw (CMS of Ukraine) - I guess that taught me discipline and consistency;</li>
+          <li>I have been swimming for 8 years, btw (CMS of Ukraine) - I guess that taught me discipline and consistency.</li>
+		  <li>I use neovim, btw.</li>
           <li>I'm hyper-meticulous, btw.</li>
       </ul>
       <h2>Contact Me</h2>
