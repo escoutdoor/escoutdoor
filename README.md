@@ -4,14 +4,19 @@
     <div>
       <h2>Tech Stack</h2>
       <ul>
-        <li><strong>Backend:</strong> Golang, REST APIs, gRPC, Model Context Protocol (MCP)</li>
+        <li><strong>Backend:</strong> Golang, Rust, REST APIs, gRPC, Model Context Protocol (MCP)</li>
         <li><strong>Databases:</strong> PostgreSQL, SQL, Redis</li>
-        <li><strong>Infrastructure / Tools:</strong> AWS, Kubernetes, Docker, Docker-Compose, Git, Kafka</li>
+        <li><strong>Infrastructure / Tools:</strong> AWS, Kubernetes, Docker, Docker-Compose, Git, Apache Kafka</li>
         <li><strong>Monitoring:</strong> Grafana, OpenTelemetry, Prometheus, Jaeger</li>
+		<li><strong>Operating Systems & Networking:</strong> Linux (Ubuntu), Linux networking, TCP/UDP, FD.io VPP, tcpdump, iperf3, Scapy</li>
       </ul>
       <h2>Experience</h2>
 	  <div>
-		<p>💼 <strong>Golang Developer Intern</strong> - SoftServe (Mar 2026 - Jun 2026)</p>
+		<p>🦀 <strong>Rust Developer Intern</strong> - SoftServe (Aug 2026 - Present)</p>
+		<ul>
+		  <li><strong>Tech stack:</strong> Rust, Python, C, FD.io VPP, Linux (Ubuntu), Linux networking, Scapy, Git.</li>
+		</ul>
+		<p>🐹 <strong>Golang Developer Intern</strong> - SoftServe (Mar 2026 - Jun 2026)</p>
 		<ul>
 		  <li><strong>Tech stack:</strong> Go, PostgreSQL, AWS, Kubernetes, Docker, MCP, Prometheus, Grafana, Git.</li>
 		</ul>
@@ -25,13 +30,14 @@
       <ul>
           <li>I have been swimming for 8 years, btw (CMS of Ukraine) - I guess that taught me discipline and consistency.</li>
 		  <li>I use neovim, btw.</li>
+		  <li>I use ubuntu, btw.</li>
           <li>I'm hyper-meticulous, btw.</li>
       </ul>
       <h2>Contact Me</h2>
       <ul>
           <li>📧 Email: <a href="mailto:vanap387@gmail.com">vanap387@gmail.com</a></li>
           <li>📱 Telegram: <a href="https://t.me/escoutdoor">@escoutdoor</a></li>
-          <li>💼 LinkedIn: <a href="https://www.linkedin.com/in/ivanpopov-">ivanpopov-</a></li>
+          <li>💼 LinkedIn: <a href="https://www.linkedin.com/in/ivanpopov04">ivanpopov-</a></li>
       </ul>
     </div>
 </div>
